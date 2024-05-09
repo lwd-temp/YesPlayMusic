@@ -49,7 +49,7 @@
     "electron-updater": "^5.0.1",
     "esbuild": "^0.20.1",
     "esbuild-loader": "^4.0.3",
-    "express": "^4.17.1",
+    "express": "^4.19.2",
     "express-fileupload": "^1.2.0",
     "express-http-proxy": "^1.6.2",
     "extract-zip": "^2.0.1",
